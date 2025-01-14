@@ -1,7 +1,7 @@
 # heart-trail-animation-mod1
 
 Project Based Learning
-
+-------------------------
 
 -This is a project based learning module. Teaches HTML, CSS and JavaScript.
 
