@@ -7,4 +7,3 @@ Project Based Learning
 
 -In this project we create a heart trail animation, i.e., based on the movement of the mouse on the page a heart is created which is off different sizes and colours
 
-Draft---
